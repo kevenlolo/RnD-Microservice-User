@@ -1,0 +1,10 @@
+
+### Configurations  ###
+
+## General ##
+server:
+  port: 8081
+spring:
+  application:
+    name: user-service
+
